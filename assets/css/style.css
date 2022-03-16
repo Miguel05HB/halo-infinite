@@ -155,7 +155,7 @@ h2::before {
 }
 
 header {
-  background-image: url(./assets/img/halo-infinite-cover-darkmode.jpg);
+  background-image: url(/assets/img/halo-infinite-cover-darkmode.jpg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
@@ -237,7 +237,7 @@ h3 {
 #videos {
   text-align: center;
   padding: 50px 0;
-  background-image: url(./assets/img/bg-videos.png);
+  background-image: url(/assets/img/bg-videos.png);
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -271,7 +271,7 @@ h3 {
 #videos #slider #current {
   width: 1280px;
   margin: 50px auto;
-  border: solid 1px #00c3ff;
+  border: 1px solid #00c3ff;
 }
 
 #videos #slider #videos-container {
@@ -329,7 +329,7 @@ h3 {
 
 #multi-player {
   height: 100vh;
-  background-image: url(./assets/img/bg-multiplayer.jpeg);
+  background-image: url(/assets/img/bg-multiplayer.jpeg);
   display: flex;
   align-items: center;
   justify-content: end;
@@ -388,7 +388,7 @@ h3 {
 
 footer {
   height: 800px;
-  background-image: url(./assets/img/master-chief-darkmode.jpg);
+  background-image: url(/assets/img/master-chief-darkmode.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
